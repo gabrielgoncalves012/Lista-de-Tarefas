@@ -1,0 +1,58 @@
+CANAIS DE TV:
+
+SPORTV:
+https://super-cdn.link/sportv/video.m3u8
+https://super-cdn.link/sportv2/video.m3u8
+https://super-cdn.link/sportv3/video.m3u8
+
+PREMIRE CLUBES:
+https://super-cdn.link/premiereclubes/video.m3u8
+https://super-cdn.link/premiere2/video.m3u8
+https://super-cdn.link/premiere3/video.m3u8
+https://super-cdn.link/premire4/video.m3u8
+https://super-cdn.link/premire5/video.m3u8
+https://super-cdn.link/premiere6/video.m3u8
+
+
+ESPN:
+https://super-cdn.link/espn/video.m3u8
+https://super-cdn.link/espn2/video.m3u8
+https://super-cdn.link/espn3/video.m3u8
+https://super-cdn.link/espn3/video.m3u8
+
+NOSSO FUTEBOL:
+https://super-cdn.link/nossofutebol/video.m3u8
+
+CAZE TV:
+https://super-cdn.link/cazetv/video.m3u8
+
+TNT:
+https://super-cdn.link/tnt/video.m3u8
+
+BAND:
+https://super-cdn.link/band/video.m3u8
+
+RECORD:
+https://super-cdn.link/record/video.m3u8
+
+SBT:
+https://super-cdn.link/sbt/video.m3u8
+
+MAX:
+https://super-cdn.link/max/video.m3u8
+https://super-cdn.link/max2/video.m3u8
+https://super-cdn.link/max3/video.m3u8
+
+BAND SPORTS:
+https://super-cdn.link/bandsports/video.m3u8
+
+PRIME VIDEO
+https://super-cdn.link/primevideo/video.m3u8
+https://super-cdn.link/primevideo2/video.m3u8
+https://super-cdn.link/primevideo3/video.m3u8
+
+SPACE:
+https://super-cdn.link/space/video.m3u8
+
+
+
